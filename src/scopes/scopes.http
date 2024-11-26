@@ -1,0 +1,8 @@
+### singleton
+GET http://localhost:3000/scopes/singleton
+
+### request
+GET http://localhost:3000/scopes/request
+
+### transient
+GET http://localhost:3000/scopes/transient
